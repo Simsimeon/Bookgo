@@ -1,0 +1,1 @@
+export const API_URL = "https://react-native-bookstoreapp-t8sy.onrender.com/api"
